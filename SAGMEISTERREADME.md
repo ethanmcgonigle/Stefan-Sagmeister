@@ -1,7 +1,7 @@
 Stefan Sagmeister Essay
 -----------------------
 
--[Enter]( https://github.com/ethanmcgonigle/Stefan-Sagmeister/github.io/mock-enter/mockenter.html)
+-[Enter]( https://github.com/ethanmcgonigle/Stefan-Sagmeister.github.io/GitHub/mock-enter/mockenter.html)
 
 -[Essay]( https://github.com/ethanmcgonigle/Stefan-Sagmeister.git/mockessay.html)
 
